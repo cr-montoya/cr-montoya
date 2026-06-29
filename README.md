@@ -6,11 +6,15 @@ I am AWS Certified as DevOps Engineer - Professional and Solutions Architect - A
 
 I enjoy building systems that are not only deployed correctly, but also observable, maintainable, secure, and easy for engineering teams to operate. I am especially interested in Harness Engineering, Spec-Driven Development (SDD), AI-assisted engineering workflows, platform automation, disaster recovery, compliance-driven cloud environments, and mentoring teams around DevOps and cloud-native practices.
 
-## What I Work With
+## Engineering Areas
 
-My technical stack includes AWS, Terraform, AWS CDK, AWS SAM, CloudFormation, GitLab CI, GitHub Actions, Docker, Linux, Bash, Python, Prometheus, Grafana, CloudWatch, IAM, Lambda, API Gateway, DynamoDB, S3, EventBridge, CodePipeline, CodeBuild, CodeDeploy, KMS, CloudTrail, and security automation patterns.
+I design cloud infrastructure using Infrastructure as Code with tools such as Terraform, AWS CDK, AWS SAM, and CloudFormation. I care about making environments repeatable, versioned, auditable, and simple enough for teams to evolve safely.
 
-I use these tools to design automated infrastructure, deployment pipelines, monitoring strategies, operational runbooks, access controls, account guardrails, and repeatable delivery processes for cloud environments.
+I build CI/CD workflows with GitLab CI, GitHub Actions, and AWS-native services, connecting source control, automated validation, deployments, environment promotion, and operational feedback loops.
+
+I work on observability and operations using CloudWatch, Prometheus, Grafana, logs, metrics, alarms, dashboards, and runbooks, with the goal of making systems easier to understand before and after production incidents.
+
+I also focus on cloud security practices such as IAM least privilege, access controls, audit trails, account guardrails, key management, compliance-oriented configurations, and automated remediation patterns.
 
 ## Featured Projects
 
@@ -24,7 +28,7 @@ AWS security automation toolkit for account guardrails and event-driven remediat
 
 ## Current Focus
 
-I am currently deepening my work around AWS DevOps, Harness Engineering, Spec-Driven Development (SDD), AI tools for software delivery, CI/CD design, Terraform and CDK-based infrastructure, observability with Prometheus and Grafana, disaster recovery practices, and cloud security automation.
+I am currently deepening my work around Harness Engineering, Spec-Driven Development (SDD), AI tools for software delivery, disaster recovery practices, compliance-aware cloud operations, and security automation for production environments.
 
 ## Connect
 
