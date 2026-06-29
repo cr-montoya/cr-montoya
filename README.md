@@ -4,7 +4,7 @@ DevOps Engineer with experience designing secure, resilient, and automated cloud
 
 I am AWS Certified as DevOps Engineer - Professional and Solutions Architect - Associate, with additional focus on cloud architecture and security practices. My day-to-day work includes AWS, Terraform, GitLab CI, GitHub Actions, Docker, Prometheus, Grafana, Linux, Python, and modern CI/CD platforms.
 
-I enjoy building systems that are not only deployed correctly, but also observable, maintainable, secure, and easy for engineering teams to operate. I am especially interested in Harness Engineering, Secure Delivery and Deployment (SDD), platform automation, disaster recovery, compliance-driven cloud environments, and mentoring teams around DevOps and cloud-native practices.
+I enjoy building systems that are not only deployed correctly, but also observable, maintainable, secure, and easy for engineering teams to operate. I am especially interested in Harness Engineering, Spec-Driven Development (SDD), AI-assisted engineering workflows, platform automation, disaster recovery, compliance-driven cloud environments, and mentoring teams around DevOps and cloud-native practices.
 
 ## What I Work With
 
@@ -24,7 +24,7 @@ AWS security automation toolkit for account guardrails and event-driven remediat
 
 ## Current Focus
 
-I am currently deepening my work around AWS DevOps, Harness Engineering, Secure Delivery and Deployment (SDD), CI/CD design, Terraform and CDK-based infrastructure, observability with Prometheus and Grafana, disaster recovery practices, and cloud security automation.
+I am currently deepening my work around AWS DevOps, Harness Engineering, Spec-Driven Development (SDD), AI tools for software delivery, CI/CD design, Terraform and CDK-based infrastructure, observability with Prometheus and Grafana, disaster recovery practices, and cloud security automation.
 
 ## Connect
 
