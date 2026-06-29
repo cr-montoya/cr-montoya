@@ -1,59 +1,30 @@
 # Cristian Montoya
 
-DevOps and Cloud Engineer focused on AWS, Infrastructure as Code, CI/CD, serverless applications, observability, and secure cloud operations.
+DevOps Engineer with experience designing secure, resilient, and automated cloud environments from the ground up. I work across cloud infrastructure, CI/CD, observability, security, and platform automation, with a strong focus on Infrastructure as Code, operational excellence, and reliable delivery workflows.
 
-I build practical cloud projects that connect architecture, automation, deployment pipelines, monitoring, and operational reliability. My work is centered on AWS, but I also use tools such as Terraform, GitLab CI, GitHub Actions, Docker, Prometheus, and Grafana to design delivery workflows and production-ready environments.
+I am AWS Certified as DevOps Engineer - Professional and Solutions Architect - Associate, with additional focus on cloud architecture and security practices. My day-to-day work includes AWS, Terraform, GitLab CI, GitHub Actions, Docker, Prometheus, Grafana, Linux, Python, and modern CI/CD platforms.
+
+I enjoy building systems that are not only deployed correctly, but also observable, maintainable, secure, and easy for engineering teams to operate. I am especially interested in Harness Engineering, Secure Delivery and Deployment (SDD), platform automation, disaster recovery, compliance-driven cloud environments, and mentoring teams around DevOps and cloud-native practices.
 
 ## What I Work With
 
-**Cloud and Infrastructure**
+My technical stack includes AWS, Terraform, AWS CDK, AWS SAM, CloudFormation, GitLab CI, GitHub Actions, Docker, Linux, Bash, Python, Prometheus, Grafana, CloudWatch, IAM, Lambda, API Gateway, DynamoDB, S3, EventBridge, CodePipeline, CodeBuild, CodeDeploy, KMS, CloudTrail, and security automation patterns.
 
-AWS, IAM, Lambda, API Gateway, DynamoDB, S3, CloudFormation, CDK, SAM, EventBridge, CloudWatch, CodePipeline, CodeBuild, CodeDeploy, KMS, CloudTrail
-
-**DevOps and Automation**
-
-GitLab CI, GitHub Actions, Terraform, Docker, Linux, Bash, Python, Makefiles, CI/CD pipelines, deployment automation, environment promotion, release workflows
-
-**Observability and Operations**
-
-Prometheus, Grafana, CloudWatch metrics and logs, alarms, dashboards, operational runbooks, incident-oriented documentation
-
-**Security and Governance**
-
-IAM least privilege, access key hygiene, AWS account guardrails, audit trails, region restrictions, security automation, secure deployment patterns
+I use these tools to design automated infrastructure, deployment pipelines, monitoring strategies, operational runbooks, access controls, account guardrails, and repeatable delivery processes for cloud environments.
 
 ## Featured Projects
 
 ### [AWS DevOps Pro Practice](https://github.com/cr-montoya/aws-devops-pro-practice)
 
-Hands-on AWS DevOps project with SAM and CDK applications focused on serverless APIs, CI/CD pipelines, observability, deployment safety, and production-style documentation.
-
-Highlights:
-
-- AWS SAM application with Lambda, API Gateway, DynamoDB, alarms, dashboards, and tests
-- AWS CDK application with pipeline, deployment stages, and infrastructure validation
-- Architecture diagrams, runbooks, ADRs, validation commands, and release documentation
-- Practical structure for studying and demonstrating AWS DevOps Professional concepts
+Hands-on AWS DevOps project with SAM and CDK applications focused on serverless APIs, CI/CD pipelines, observability, deployment safety, infrastructure validation, and production-style documentation. It includes architecture diagrams, runbooks, ADRs, automated tests, validation commands, and release documentation.
 
 ### [AWS Account Security Toolkit](https://github.com/cr-montoya/aws-account-security-toolkit)
 
-AWS security automation toolkit for account guardrails and event-driven remediation.
-
-Focus areas:
-
-- Root user login notifications
-- Stale IAM access key quarantine
-- Compromised access key response
-- Region restriction policy patterns
-- CDK-based infrastructure with automated tests
+AWS security automation toolkit for account guardrails and event-driven remediation. It explores root user login notifications, stale IAM access key quarantine, compromised access key response, region restriction policy patterns, and CDK-based infrastructure with automated tests.
 
 ## Current Focus
 
-- Building AWS projects with strong documentation, tests, and repeatable deployments
-- Improving CI/CD workflows across AWS-native services, GitHub Actions, and GitLab CI
-- Designing infrastructure with CDK, SAM, and Terraform
-- Strengthening observability practices with CloudWatch, Prometheus, and Grafana
-- Automating cloud security controls and operational guardrails
+I am currently deepening my work around AWS DevOps, Harness Engineering, Secure Delivery and Deployment (SDD), CI/CD design, Terraform and CDK-based infrastructure, observability with Prometheus and Grafana, disaster recovery practices, and cloud security automation.
 
 ## Connect
 
