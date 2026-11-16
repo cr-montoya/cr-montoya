@@ -11,7 +11,7 @@ I design secure, observable and automated cloud environments, and lately I build
 
 | Project | What it is |
 | --- | --- |
-| 🏆 [GhostStock](https://github.com/cr-montoya/GhostStock) | Winner of **Kiro Day Medellín 2026**. Photo to inventory with Amazon Bedrock and a strict no-invented-data schema, built with Kiro specs, a self-mutating CDK pipeline and Playwright gates. |
+| 🥈 [GhostStock](https://github.com/cr-montoya/GhostStock) | **2nd place at Kiro Day Medellín 2026**. Photo to inventory with Amazon Bedrock and a strict no-invented-data schema, built with Kiro specs, a self-mutating CDK pipeline and Playwright gates. |
 | [Manual de mi vehículo](https://github.com/cr-montoya/rag-manuales-vehiculos) | Ask your motorcycle or car manual and get the answer with its page. Amazon Bedrock Knowledge Bases + Amazon S3 Vectors on AWS CDK. |
 | [AWS DevOps Pro Practice](https://github.com/cr-montoya/aws-devops-pro-practice) | SAM and CDK apps for safe deployments: CodeDeploy canaries, ECS Fargate, Kinesis, observability, runbooks and ADRs. |
 | [AWS Account Security Toolkit](https://github.com/cr-montoya/aws-account-security-toolkit) | Account guardrails as code: threat alerts, credential remediation and cost controls with one `make deploy`. |
