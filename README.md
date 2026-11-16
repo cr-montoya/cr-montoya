@@ -1,36 +1,36 @@
 # Cristian Montoya
 
-DevOps Engineer with experience designing secure, resilient, and automated cloud environments from the ground up. I work across cloud infrastructure, CI/CD, observability, security, and platform automation, with a strong focus on Infrastructure as Code, operational excellence, and reliable delivery workflows.
+**Cloud & DevOps Engineer building with AWS and AI.** Medellín, Colombia.
 
-I am AWS Certified as DevOps Engineer - Professional and Solutions Architect - Associate, with additional focus on cloud architecture and security practices. My day-to-day work includes AWS, Terraform, GitLab CI, GitHub Actions, Docker, Prometheus, Grafana, Linux, Python, and modern CI/CD platforms.
+I design secure, observable and automated cloud environments, and lately I build with AI the way I build infrastructure: with specs, guardrails and tests. Spec-driven development, harness engineering and context engineering are what I enjoy most, and what I share.
 
-I enjoy building systems that are not only deployed correctly, but also observable, maintainable, secure, and easy for engineering teams to operate. I am especially interested in Harness Engineering, Spec-Driven Development (SDD), AI-assisted engineering workflows, platform automation, disaster recovery, compliance-driven cloud environments, and mentoring teams around DevOps and cloud-native practices.
+![AWS Certified DevOps Engineer - Professional](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-## Engineering Areas
+## Featured projects
 
-I design cloud infrastructure using Infrastructure as Code with tools such as Terraform, AWS CDK, AWS SAM, and CloudFormation. I care about making environments repeatable, versioned, auditable, and simple enough for teams to evolve safely.
+| Project | What it is |
+| --- | --- |
+| 🏆 [GhostStock](https://github.com/cr-montoya/GhostStock) | Winner of **Kiro Day Medellín 2026**. Photo to inventory with Amazon Bedrock and a strict no-invented-data schema, built with Kiro specs, a self-mutating CDK pipeline and Playwright gates. |
+| [Manual de mi vehículo](https://github.com/cr-montoya/rag-manuales-vehiculos) | Ask your motorcycle or car manual and get the answer with its page. Amazon Bedrock Knowledge Bases + Amazon S3 Vectors on AWS CDK. |
+| [AWS DevOps Pro Practice](https://github.com/cr-montoya/aws-devops-pro-practice) | SAM and CDK apps for safe deployments: CodeDeploy canaries, ECS Fargate, Kinesis, observability, runbooks and ADRs. |
+| [AWS Account Security Toolkit](https://github.com/cr-montoya/aws-account-security-toolkit) | Account guardrails as code: threat alerts, credential remediation and cost controls with one `make deploy`. |
+| [Atlas](https://github.com/cr-montoya/atlas) | Local-first app for money and training, with AI agents over Garmin and Polar through MCP. |
 
-I build CI/CD workflows with GitLab CI, GitHub Actions, and AWS-native services, connecting source control, automated validation, deployments, environment promotion, and operational feedback loops.
+## What I work with
 
-I work on observability and operations using CloudWatch, Prometheus, Grafana, logs, metrics, alarms, dashboards, and runbooks, with the goal of making systems easier to understand before and after production incidents.
+- **Cloud & IaC:** AWS, CDK, Terraform, SAM, CloudFormation
+- **Delivery:** GitHub Actions, GitLab CI, CodePipeline, Docker
+- **Operations:** CloudWatch, Prometheus, Grafana, runbooks, disaster recovery
+- **Security:** IAM least privilege, guardrails, audit trails, automated remediation
+- **AI engineering:** Amazon Bedrock, Kiro, MCP, spec-driven development, harness and context engineering
 
-I also focus on cloud security practices such as IAM least privilege, access controls, audit trails, account guardrails, key management, compliance-oriented configurations, and automated remediation patterns.
+## Where I share
 
-## Featured Projects
+- ▶️ YouTube: [@cristianmontoyacloud](https://www.youtube.com/@cristianmontoyacloud)
+- 📸 Instagram: [@_______cristianmontoya](https://www.instagram.com/_______cristianmontoya/) (in Spanish)
+- ☁️ AWS Builder Center: [@cristianmontoya](https://builder.aws.com/community/@cristianmontoya)
+- 💼 LinkedIn: [cristian-montoya-devops](https://www.linkedin.com/in/cristian-montoya-devops/)
+- 🌐 Web: [romanops.dev](https://romanops.dev)
 
-### [AWS DevOps Pro Practice](https://github.com/cr-montoya/aws-devops-pro-practice)
-
-Hands-on AWS DevOps project with SAM and CDK applications focused on serverless APIs, CI/CD pipelines, observability, deployment safety, infrastructure validation, and production-style documentation. It includes architecture diagrams, runbooks, ADRs, automated tests, validation commands, and release documentation.
-
-### [AWS Account Security Toolkit](https://github.com/cr-montoya/aws-account-security-toolkit)
-
-AWS security automation toolkit for account guardrails and event-driven remediation. It explores root user login notifications, stale IAM access key quarantine, compromised access key response, region restriction policy patterns, and CDK-based infrastructure with automated tests.
-
-## Current Focus
-
-I am currently deepening my work around Harness Engineering, Spec-Driven Development (SDD), AI tools for software delivery, disaster recovery practices, compliance-aware cloud operations, and security automation for production environments.
-
-## Connect
-
-- LinkedIn: [cristian-montoya-devops](https://www.linkedin.com/in/cristian-montoya-devops/)
-- GitHub: [cr-montoya](https://github.com/cr-montoya)
+Active in the AWS User Group Medellín.
